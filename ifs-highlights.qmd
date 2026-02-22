@@ -1,16 +1,18 @@
----
-title: "IFS highlights"
----
-
 ## Fiscal traffic lights 
-
-[**From fiscal rules to fiscal traffic lights: rethinking the UK fiscal framework**](https://ifs.org.uk/publications/fiscal-rules-fiscal-traffic-lights-rethinking-uk-fiscal-framework){target="_blank"}, Institute for Fiscal Studies, February 2026.  
 
 This is probably the piece of IFS work I'm proudest of: an analysis of the problems with the UK's approach to fiscal policy and a detailed proposal for what an alternative fiscal framework could look like. 
 
+[**From fiscal rules to fiscal traffic lights: rethinking the UK fiscal framework**](https://ifs.org.uk/publications/fiscal-rules-fiscal-traffic-lights-rethinking-uk-fiscal-framework){target="_blank"}, Institute for Fiscal Studies, February 2026.  
+
 Watch/listen to a discussion the proposals with Helen Miller on the IFS Zooms In podcast: 
 
-{{< youtube XmeGpSaQ9YA >}}
+<iframe
+  src="https://www.youtube.com/embed/XmeGpSaQ9YA"
+  style="position: absolute; top:0; left:0; width:100%; height:100%;"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 <div style="max-width: 800px;">
   <iframe 
@@ -23,7 +25,13 @@ Watch/listen to a discussion the proposals with Helen Miller on the IFS Zooms In
 
 Watch me present the key findings and recommendations, followed by a panel discussion with Rupert Harrison, Victoria Clarke and Chris Giles, chaired by Gus O'Donnell: 
 
-{{< youtube l_quJWjDc1E >}}
+<iframe
+  src="https://www.youtube.com/embed/l_quJWjDc1E"
+  style="position: absolute; top:0; left:0; width:100%; height:100%;"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 ## Other work on fiscal policy 
 

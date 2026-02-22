@@ -4,35 +4,40 @@ This is probably the piece of IFS work I'm proudest of: an analysis of the probl
 
 [**From fiscal rules to fiscal traffic lights: rethinking the UK fiscal framework**](https://ifs.org.uk/publications/fiscal-rules-fiscal-traffic-lights-rethinking-uk-fiscal-framework){target="_blank"}, Institute for Fiscal Studies, February 2026.  
 
-Watch/listen to a discussion the proposals with Helen Miller on the IFS Zooms In podcast: 
+Watch a (or [listen to](https://open.spotify.com/episode/5VZFnCE23YE5tG5FXIKUCX?si=9fW4Gg_RQVuPVKXzsIrKLw){target="_blank"}) discussion the proposals with Helen Miller on the IFS Zooms In podcast: [https://www.youtube.com/watch?v=XmeGpSaQ9YA](https://www.youtube.com/watch?v=XmeGpSaQ9YA){target="_blank"}   
 
-<div style="max-width: 800px;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XmeGpSaQ9YA?si=ANSsOY05Hxje79Et" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</div>
+Watch me present the key findings and recommendations, followed by a panel discussion with Rupert Harrison, Victoria Clarke and Chris Giles, chaired by Gus O'Donnell: [https://www.youtube.com/watch?v=l_quJWjDc1E](https://www.youtube.com/watch?v=l_quJWjDc1E){target="_blank"} 
 
-<div style="max-width: 800px;">
-  <iframe 
-    style="border-radius:12px; width:100%; height:152px;"
-    src="https://open.spotify.com/embed/episode/5VZFnCE23YE5tG5FXIKUCX?utm_source=generator"
-    frameborder="0"
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-  </iframe>
-</div>
+I wrote about the research for The Observer [here](https://observer.co.uk/news/business/article/fiscal-rules-arent-working-we-need-a-new-traffic-light-system-to-show-the-way){target="_blank"}. 
 
-Watch me present the key findings and recommendations, followed by a panel discussion with Rupert Harrison, Victoria Clarke and Chris Giles, chaired by Gus O'Donnell: 
-
-<div style="max-width: 800px;">
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l_quJWjDc1E?si=1KE9iVUyiCILoT3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-</div>
+Selected other media coverage: [Financial Times](https://www.ft.com/content/c88bc54b-2957-4ada-ab1b-bb397e11eaf1){target="_blank"}, [BBC](https://www.bbc.co.uk/news/articles/c1kg48m937wo){target="_blank"}, [Telegraph](https://www.telegraph.co.uk/business/2026/02/19/ditch-fiscal-rules-dysfunctional-britain-treasury-urged/){target="_blank"}, [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-19/uk-budget-headroom-has-become-a-harmful-obsession-ifs-warns){target="_blank"}, [Reuters](https://www.reuters.com/world/uk/uk-should-drop-fiscal-goals-new-traffic-light-system-ifs-says-2026-02-19/){target="_blank"}. 
 
 ## Other work on fiscal policy 
 
+I've published work on a wide range of other fiscal policy topics. Some selected highlights include:
+
+- [**A note of caution on fiscal technocracy**](https://ifs.org.uk/articles/note-caution-fiscal-technocracy){target="_blank"}, Institute for Fiscal Studies, May 2024 - an argument that we should be cautious about handing over gerater powers over fiscal policy to unelected technocrats. 
+
+- [**Public investment: what you need to know**](https://ifs.org.uk/articles/public-investment-what-you-need-know){target="_blank"}, Institute for Fiscal Studies, April 2024 - an explainer and discussion of the key policy and measurement issues related to public investment. 
+
+- [**Public sector net worth as a fiscal target**](https://ifs.org.uk/publications/public-sector-net-worth-fiscal-target){target="_blank"}, Institute for Fiscal Studies Green Budget, October 2023 - an exploration of the pros and cons (mainly cons) of targeting public sector net worth.  
+
+- [**Chancellors’ responses to economic news**](https://ifs.org.uk/publications/chancellors-responses-economic-news){target="_blank"} (with Carl Emmerson, Isabel Stockton and Sam van de Schootbrugge), Institute for Fiscal Studies Green Budget, September 2023 - a nice piece of analysis demonstrating that Chancellors react asymmetrically to economic shocks, spending more when there's 'good news' and borrowing more when there's 'bad news'. 
+
+- [**Public spending, pay and pensions**](https://ifs.org.uk/publications/public-spending-pay-and-pensions){target="_blank"} (with Bee Boileau and Laurence O'Brien), Institute for Fiscal Studies Green Budget, October 2022 - includes, among other things, analysis of public-private differentials in pay and pensions. 
+
+- The [**IFS Be the Chancellor**](https://ifs.org.uk/be-chancellor){target="_blank"} tool, which lets you alter plans for tax and public spending, and see the impact on the public finances. 
 
 ## Public sector productivity 
+
+To my knowledge, this report (co-authored with Max Warner in December 2022) was the first to draw attention to the pronounced reduction in NHS productivity after the pandemic: [**NHS funding, resources and teratment volumes**](https://ifs.org.uk/publications/nhs-funding-resources-and-treatment-volumes){target="_blank"}. I summarised the findings in (my most successful ever) X/Twitter thread [here](https://x.com/BenZaranko/status/1602935890036269057?s=20){target="_blank"} and discussed the report on [BBC More or Less](t.co/Id2HNpMIQz){target="_blank"} with Tim Harford. (I've also been on More or Less to discuss [Baumol's cost disease](https://www.bbc.co.uk/programmes/p0jr54c5){target="_blank"} and how [NHS productivity](https://www.bbc.co.uk/sounds/play/m002phn1) is performing in more recent data),
+
+I've published various other analyses of public sector productivity, including:
+
+- [**Productivity in the Crown Court**](https://ifs.org.uk/publications/productivity-crown-court){target="_blank"} (with Magdalena Dominguez and Joe Tomlinson), Institute for Fiscal Studies, June 2025. 
+- [**NHS hospital productivity: some positive news**](https://ifs.org.uk/articles/nhs-hospital-productivity-some-positive-news ){target="_blank"} (with Olly Harvey-Rich and Max Warner), Institute for Fiscal Studies, November 2024. 
+- [**The fiscal implications of public service productivity**](https://ifs.org.uk/publications/fiscal-implications-public-service-productivity){target="_blank"} (with Max Warner), Institute for Fiscal Studies, May 2024. 
+- [**Is there really an NHS productivity crisis?**](https://ifs.org.uk/articles/there-really-nhs-productivity-crisis){target="_blank"} (with Max Warner), Institute for Fiscal Studies, November 2023. 
 
 
 ## Health and social care 

@@ -21,7 +21,10 @@ h3 {
 }
 
 body {
-  line-height: 1.7;
+  font-size: 16.5px;   /* slightly smaller than 18px */
+  line-height: 1.65;   /* keeps readability strong */
+  max-width: 780px;    /* slightly narrower for cleaner reading */
+  margin: 0 auto;
 }
 
 .navbar {

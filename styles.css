@@ -30,8 +30,8 @@ body {
 }
 /* Ensure content never touches edges on mobile */
 main.content, #quarto-content {
-  padding-left: 16px;
-  padding-right: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 /* Homepage layout */
@@ -56,9 +56,11 @@ main.content, #quarto-content {
     grid-template-columns: 320px 1fr;
     grid-template-areas:
       "photo title"
+      "contact bio"
       "contact bio";
     column-gap: 2rem;
     row-gap: 1.5rem;
+    align-items: start;
   }
 }
 

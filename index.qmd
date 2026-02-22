@@ -1,18 +1,5 @@
 ---
 title: "Ben Zaranko"
-navbar:
-    right:
-      - text: IFS highlights
-        href: ifs-highlights.qmd
-    tools:
-      - icon: twitter
-        href: https://x.com/BenZaranko
-      - icon: link-45deg
-        href: https://bsky.app/profile/benzaranko.bsky.social 
-      - icon: linkedin
-        href: https://www.linkedin.com/in/ben-zaranko-1b1427102/
-    - icon: google
-        href: https://scholar.google.com/citations?user=JalUHmkAAAAJ&hl=en 
 ---
 
 ![](assets/headshot.jpg){width=180px}
@@ -25,5 +12,5 @@ I have discussed my research in more than 200 broadcast interviews, I write a re
 
 I hold undergraduate and masters degrees in economics from the University of Oxford and University College London, respectively. You can find a copy of my academic CV [here](Ben Zaranko Academic CV February 2026.pdf){target="_blank"} and a full list of my IFS outputs [here](https://ifs.org.uk/people/ben-zaranko){target="_blank"}. 
 
-Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk){target="_blank"} <br> <br>  
+Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk){target="_blank"}  
 

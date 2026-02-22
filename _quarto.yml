@@ -8,6 +8,15 @@ website:
     right:
       - text: IFS highlights
         href: ifs-highlights.qmd
+    tools:
+        - icon: twitter
+        href: https://x.com/BenZaranko
+        - icon: link-45deg
+        href: https://bsky.app/profile/benzaranko.bsky.social 
+        - icon: linkedin
+        href: https://www.linkedin.com/in/ben-zaranko-1b1427102/
+        - icon: google
+        href: https://scholar.google.com/citations?user=JalUHmkAAAAJ&hl=en 
 
 format:
   html:

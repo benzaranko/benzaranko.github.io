@@ -4,24 +4,30 @@ pagetitle: "Ben Zaranko"
 title-block-banner: false
 ---
 
-::: {.columns}
-::: {.column width="40%"}
-![](assets/headshot.jpg){width=280px}
+::: {.grid .align-items-start .home-hero}
 
-Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk){target="_blank"} <br>
-X/Twitter: [@BenZaranko](https://x.com/BenZaranko){target="_blank"} <br>
-Bluesky: [@benzaranko.bsky.social](https://bsky.app/profile/benzaranko.bsky.social){target="_blank"} 
+::: {.g-col-12 .g-col-md-4}
+
+![](assets/headshot.jpg){.home-headshot}
+
+Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk)  
+X/Twitter: [@BenZaranko](https://x.com/BenZaranko){target="_blank"}  
+Bluesky: [@benzaranko.bsky.social](https://bsky.app/profile/benzaranko.bsky.social){target="_blank"}  
+
 :::
 
-::: {.column width="60%"}
+::: {.g-col-12 .g-col-md-8}
+
 # Ben Zaranko
 
 I'm an economist and Associate Director at the [Institute for Fiscal Studies](https://ifs.org.uk/){target="_blank"} (IFS) in London. 
 
-I lead IFS work on fiscal policy and the UK public finances. Between 2021 and 2023 and again in 2025, I was co-editor of the [IFS Green Budget](https://ifs.org.uk/ifs-green-budget){target="_blank"}, the Institute's flagshp annual publication. I have published research across a range of economic policy issues, including academic work on the performance, productivity and distributional implications of the health care system. 
+I lead IFS work on fiscal policy and the UK public finances. Between 2021 and 2023 and again in 2025, I was co-editor of the [IFS Green Budget](https://ifs.org.uk/ifs-green-budget){target="_blank"}, the Institute's flagship annual publication. I have published research across a range of economic policy issues, including academic work on the performance, productivity and distributional implications of the health care system. 
 
 I regularly discuss my research on TV, radio and podcasts; I write a column for [The Observer](https://observer.co.uk/contributor/ben-zaranko){target="_blank"}; and I have given evidence to three parliamentary select committees. 
 
-I hold undergraduate and masters degrees in economics from the University of Oxford and UCL, respectively. You can find a copy of my academic CV [here](cv.pdf){target="_blank"} and a full list of my IFS outputs [here](https://ifs.org.uk/people/ben-zaranko){target="_blank"}. 
+I hold undergraduate and masters degrees in economics from the University of Oxford and UCL, respectively. You can find a copy of my academic CV [here](cv.pdf){target="_blank"} and a full list of my IFS outputs [here](https://ifs.org.uk/people/ben-zaranko){target="_blank"}.
 
+:::
 
+:::

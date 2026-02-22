@@ -29,4 +29,17 @@ body {
   font-size: 15px;
 }
 
+.home-hero {
+  column-gap: 2rem;
+  row-gap: 1.5rem;
+}
+
+.home-headshot {
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+}
+
 

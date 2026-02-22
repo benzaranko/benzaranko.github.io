@@ -6,7 +6,7 @@ title-block-banner: false
 
 ::: {.columns}
 ::: {.column width="40%"}
-![](assets/headshot.jpg){width=220px}
+![](assets/headshot.jpg){width=280px}
 
 Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk){target="_blank"} <br>
 X/Twitter: [@BenZaranko](https://x.com/BenZaranko){target="_blank"} <br>

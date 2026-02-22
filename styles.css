@@ -28,25 +28,49 @@ body {
 .navbar {
   font-size: 15px;
 }
+/* Ensure content never touches edges on mobile */
+main.content, #quarto-content {
+  padding-left: 16px;
+  padding-right: 16px;
+}
 
-.home-hero {
-  column-gap: 2rem;
+/* Homepage layout */
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    "title"
+    "photo"
+    "bio"
+    "contact";
   row-gap: 1.25rem;
 }
 
+.home-title   { grid-area: title; }
+.home-photo   { grid-area: photo; }
+.home-bio     { grid-area: bio; }
+.home-contact { grid-area: contact; }
+
+@media (min-width: 768px) {
+  .home-grid {
+    grid-template-columns: 320px 1fr;
+    grid-template-areas:
+      "photo title"
+      "contact bio";
+    column-gap: 2rem;
+    row-gap: 1.5rem;
+  }
+}
+
 .home-headshot {
-  width: 240px;
+  width: 280px;
   max-width: 100%;
   height: auto;
   display: block;
 }
 
-/* Prevent any long content from forcing horizontal scroll */
-html, body {
-  overflow-x: hidden;
-}
-
-img, iframe {
-  max-width: 100%;
+/* Prevent long links/strings from forcing horizontal scroll */
+a, p, li {
+  overflow-wrap: anywhere;
 }
 

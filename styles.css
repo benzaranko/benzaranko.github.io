@@ -31,7 +31,7 @@ body {
 
 .home-hero {
   column-gap: 2rem;
-  row-gap: 1.5rem;
+  row-gap: 1.25rem;
 }
 
 .home-headshot {
@@ -39,7 +39,14 @@ body {
   max-width: 100%;
   height: auto;
   display: block;
-  margin-bottom: 1rem;
 }
 
+/* Prevent any long content from forcing horizontal scroll */
+html, body {
+  overflow-x: hidden;
+}
+
+img, iframe {
+  max-width: 100%;
+}
 

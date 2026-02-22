@@ -1,0 +1,10 @@
+/* Increase homepage name size */
+h1 {
+  font-size: 42px;
+  margin-top: 0;
+}
+
+/* Improve body readability */
+body {
+  line-height: 1.65;
+}

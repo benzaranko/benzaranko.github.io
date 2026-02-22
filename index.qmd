@@ -5,11 +5,15 @@ title-block-banner: false
 ---
 
 ::: {.columns}
-::: {.column width="25%"}
+::: {.column width="40%"}
 ![](assets/headshot.jpg){width=220px}
+
+Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk){target="_blank"} <br>
+X/Twitter: [@BenZaranko](https://x.com/BenZaranko){target="_blank"} <br>
+Bluesky: [@benzaranko.bsky.social](https://bsky.app/profile/benzaranko.bsky.social){target="_blank"} 
 :::
 
-::: {.column width="75%"}
+::: {.column width="60%"}
 # Ben Zaranko
 
 I'm an economist and Associate Director at the [Institute for Fiscal Studies](https://ifs.org.uk/){target="_blank"} (IFS) in London. 
@@ -20,7 +24,4 @@ I regularly discuss my research on TV, radio and podcasts, I write a column for 
 
 I hold undergraduate and masters degrees in economics from the University of Oxford and University College London, respectively. You can find a copy of my academic CV [here](Ben%20Zaranko%20Academic%20CV%20February%202026.pdf){target="_blank"} and a full list of my IFS outputs [here](https://ifs.org.uk/people/ben-zaranko){target="_blank"}. 
 
-Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk){target="_blank"} <br>
-X/Twitter: [@BenZaranko](https://x.com/BenZaranko){target="_blank"} <br>
-Bluesky: [@benzaranko.bsky.social](https://bsky.app/profile/benzaranko.bsky.social){target="_blank"} 
 

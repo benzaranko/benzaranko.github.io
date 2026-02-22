@@ -10,15 +10,7 @@ h2 {
 }
 
 body {
-  font-family: Georgia, serif;
-  max-width: 820px;
-  margin: 0 auto;
   line-height: 1.7;
-  font-size: 18px;
-}
-
-.navbar {
-  font-size: 15px;
 }
 
 .navbar {

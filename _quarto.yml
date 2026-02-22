@@ -12,8 +12,7 @@ website:
         href: ifs-highlights.qmd
       - text: Observer and other media
         href: media.qmd
-      - text: Podcast and video
-        href: podcast-video.qmd
+
     tools:
       - icon: twitter
         href: https://x.com/BenZaranko

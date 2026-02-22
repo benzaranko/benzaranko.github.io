@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Ben Zaranko"
+  navbar:
+    right:
+      - text: Research
+        href: research.qmd
+      - text: Writing
+        href: writing.qmd
+      - text: CV
+        href: cv.qmd
+      - text: About
+        href: about.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css

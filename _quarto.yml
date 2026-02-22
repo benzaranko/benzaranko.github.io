@@ -4,10 +4,14 @@ project:
 
 website:
   title: "Ben Zaranko"
+  site-url: https://benzaranko.com
+  description: "Economist specialising in public finances and fiscal policy. Associate Director at the Institute for Fiscal Studies."
   navbar:
     right:
       - text: IFS highlights
         href: ifs-highlights.qmd
+      - text: Podcast and video
+        href: podcast-video.qmd
     tools:
       - icon: twitter
         href: https://x.com/BenZaranko
@@ -17,6 +21,9 @@ website:
         href: https://www.linkedin.com/in/ben-zaranko-1b1427102/
       - icon: google
         href: https://scholar.google.com/citations?user=JalUHmkAAAAJ&hl=en 
+  page-footer:
+    left: "© Ben Zaranko"
+    right: "Last updated: {{< meta date-modified >}}"
 
 format:
   html:

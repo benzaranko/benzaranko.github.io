@@ -8,8 +8,6 @@ website:
     right:
       - text: IFS highlights
         href: ifs-highlights.qmd
-      - text: CV
-        href: cv.qmd
 
 format:
   html:

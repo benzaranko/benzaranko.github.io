@@ -1,14 +1,22 @@
 ---
 title: "Ben Zaranko"
 ---
+
+![](assets/headshot.jpg){width=180px}
+
 I'm an economist and Associate Director at the [Institute for Fiscal Studies](https://ifs.org.uk/){target="_blank"} (IFS) in London. 
 
 I lead IFS work on the public finances. Between 2021 and 2023 and again in 2025, I was co-editor of the [IFS Green Budget](https://ifs.org.uk/ifs-green-budget){target="_blank"}, the Institute's flagshp annual publication. I have published research across a range of economic and fiscal policy issues, including academic work on the performance, productivity and distributional implications of the health care system. 
 
 I have discussed my research in more than 200 broadcast interviews, I write a regular column for [The Observer](https://observer.co.uk/contributor/ben-zaranko){target="_blank"}, and I have given evidence to three parliamentary select committees. 
 
-I hold undergraduate and masters degrees in economics from the University of Oxford and University College London, respectively. You can find a copy of my CV here [PDF link to be added]. 
+I hold undergraduate and masters degrees in economics from the University of Oxford and University College London, respectively. You can find a copy of my academic CV [here](Ben Zaranko Academic CV February 2026.pdf){target="_blank"}. 
 
-[Download academic CV](Ben Zaranko Academic CV February 2026.pdf){target="_blank"} 
-[IFS profile and output list](https://ifs.org.uk/people/ben-zaranko){target="_blank"} 
+Email: [ben.zaranko@ifs.org.uk](mailto:ben.zaranko@ifs.org.uk){target="_blank"} <br> <br>  
+
+[IFS profile and output list](https://ifs.org.uk/people/ben-zaranko){target="_blank"}<br>
+[X](https://x.com/BenZaranko){target="_blank"}<br>
+[Bluesky](https://bsky.app/profile/benzaranko.bsky.social){target="_blank"}<br> 
+[LinkedIn]  (https://www.linkedin.com/in/ben-zaranko-1b1427102/){target="_blank"}<br>
 [Google Scholar](https://scholar.google.com/citations?user=JalUHmkAAAAJ&hl=en){target="_blank"} 
+

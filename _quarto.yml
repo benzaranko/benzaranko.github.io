@@ -10,7 +10,7 @@ website:
     right:
       - text: IFS highlights
         href: ifs-highlights.qmd
-      - text: The Observer and other media
+      - text: Observer and other media
         href: media.qmd
       - text: Podcast and video
         href: podcast-video.qmd

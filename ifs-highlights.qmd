@@ -4,11 +4,9 @@ title: "IFS highlights"
 
 ## Fiscal traffic lights 
 
-This is probably the piece of IFS work I'm proudest of: an analysis of the problems with the UK's approach to fiscal policy and a detailed proposal for what an alternative fiscal framework could look like. 
-
 [**From fiscal rules to fiscal traffic lights: rethinking the UK fiscal framework**](https://ifs.org.uk/publications/fiscal-rules-fiscal-traffic-lights-rethinking-uk-fiscal-framework){target="_blank"}, Institute for Fiscal Studies, February 2026.  
 
-I discussed the proposals with Helen Miller on the IFS Zooms In: 
+This is probably the piece of IFS work I'm proudest of: an analysis of the problems with the UK's approach to fiscal policy and a detailed proposal for what an alternative fiscal framework could look like. I discussed the proposals with Helen Miller on the IFS Zooms In podcast: 
 
 <div style="max-width: 800px;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

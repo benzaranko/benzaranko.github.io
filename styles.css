@@ -1,6 +1,11 @@
 /* Increase homepage name size */
 h1 {
-  font-size: 72px;
+  font-size: 64px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 48px;
   margin-top: 0;
 }
 

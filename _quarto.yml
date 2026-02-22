@@ -10,6 +10,8 @@ website:
     right:
       - text: IFS highlights
         href: ifs-highlights.qmd
+      - text: The Observer and other media
+        href: media.qmd
       - text: Podcast and video
         href: podcast-video.qmd
     tools:
@@ -23,7 +25,6 @@ website:
         href: https://scholar.google.com/citations?user=JalUHmkAAAAJ&hl=en 
   page-footer:
     left: "© Ben Zaranko"
-    right: "Last updated: {{< meta date-modified >}}"
 
 format:
   html:

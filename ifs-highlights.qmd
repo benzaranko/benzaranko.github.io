@@ -6,13 +6,11 @@ This is probably the piece of IFS work I'm proudest of: an analysis of the probl
 
 Watch/listen to a discussion the proposals with Helen Miller on the IFS Zooms In podcast: 
 
-<iframe
-  src="https://www.youtube.com/embed/XmeGpSaQ9YA"
-  style="position: absolute; top:0; left:0; width:100%; height:100%;"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<div style="max-width: 800px;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XmeGpSaQ9YA?si=ANSsOY05Hxje79Et" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
 <div style="max-width: 800px;">
   <iframe 
@@ -25,13 +23,11 @@ Watch/listen to a discussion the proposals with Helen Miller on the IFS Zooms In
 
 Watch me present the key findings and recommendations, followed by a panel discussion with Rupert Harrison, Victoria Clarke and Chris Giles, chaired by Gus O'Donnell: 
 
-<iframe
-  src="https://www.youtube.com/embed/l_quJWjDc1E"
-  style="position: absolute; top:0; left:0; width:100%; height:100%;"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<div style="max-width: 800px;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_quJWjDc1E?si=1KE9iVUyiCILoT3N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
 ## Other work on fiscal policy 
 

@@ -1,6 +1,6 @@
 ## Fiscal traffic lights 
 
-This is probably the piece of IFS work I'm proudest of: an analysis of the problems with the UK's approach to fiscal policy and a detailed proposal for what an alternative fiscal framework could look like. 
+This is probably the piece of IFS work I'm most proud of: an analysis of the problems with the UK's approach to fiscal policy and a detailed proposal for what an alternative fiscal framework could look like. 
 
 [**From fiscal rules to fiscal traffic lights: rethinking the UK fiscal framework**](https://ifs.org.uk/publications/fiscal-rules-fiscal-traffic-lights-rethinking-uk-fiscal-framework){target="_blank"}, IFS, February 2026.  
 
@@ -14,13 +14,14 @@ Selected other media coverage: [Financial Times](https://www.ft.com/content/c88b
 
 ## Other work on fiscal policy 
 
-I've published work on a wide range of other fiscal policy topics. Some selected highlights include:
+I've published a wide range of other fiscal policy topics. Some selected highlights include:
 
 - [**A note of caution on fiscal technocracy**](https://ifs.org.uk/articles/note-caution-fiscal-technocracy){target="_blank"}, IFS, May 2024 - an argument that we should be cautious about handing over greater powers over fiscal policy to unelected technocrats. 
 - [**Public investment: what you need to know**](https://ifs.org.uk/articles/public-investment-what-you-need-know){target="_blank"}, IFS, April 2024 - an explainer and discussion of the key policy and measurement issues related to public investment. 
 - [**Public sector net worth as a fiscal target**](https://ifs.org.uk/publications/public-sector-net-worth-fiscal-target){target="_blank"}, IFS Green Budget, October 2023 - an exploration of the pros and cons (mainly cons) of targeting public sector net worth.  
 - [**Chancellors’ responses to economic news**](https://ifs.org.uk/publications/chancellors-responses-economic-news){target="_blank"} (with Carl Emmerson, Isabel Stockton and Sam van de Schootbrugge), IFS Green Budget, September 2023 - analysis demonstrating that Chancellors react asymmetrically to economic shocks, spending more when there's 'good news' and borrowing more when there's 'bad news'. 
 - [**Public spending, pay and pensions**](https://ifs.org.uk/publications/public-spending-pay-and-pensions){target="_blank"} (with Bee Boileau and Laurence O'Brien), IFS Green Budget, October 2022 - includes, among other things, analysis of public-private differentials in pay and pensions. 
+- [**The planning and control of UK public expenditure, 1993-2015**](https://ifs.org.uk/publications/planning-and-control-uk-public-expenditure-1993-2015){target="_blank"} (with Rowena Crawford and Paul Johnson), IFS, July 2018 - my first ever project at IFS, which contributed to a subsequent project (and [book](https://global.oup.com/academic/product/the-way-the-money-goes-9780198865087){target="_blank"}) on the UK spending framework, led by the late Christopher Hood. 
 - The [**IFS Be the Chancellor**](https://ifs.org.uk/be-chancellor){target="_blank"} tool, which lets you alter plans for tax and public spending, and see the impact on the public finances. 
 - Persuading the BBC to pronounce PSNFL as "persnuffle" on [More or Less](https://www.bbc.co.uk/programmes/p0jwdkrk){target="_blank"}
 - This four-part podcast series on how to fix the UK tax system (parts [one](https://ifs.org.uk/articles/how-fix-income-tax){target="_blank"}, [two](https://ifs.org.uk/articles/how-fix-wealth-taxes){target="_blank"}, [three](https://ifs.org.uk/articles/how-fix-property-taxes){target="_blank"}, and [four](https://ifs.org.uk/articles/how-fix-vat){target="_blank"}), recorded with Helen Miller and Stuart Adam. 
@@ -29,7 +30,7 @@ I've published work on a wide range of other fiscal policy topics. Some selected
 
 To my knowledge, this report (co-authored with Max Warner in December 2022) was the first to draw attention to the pronounced reduction in NHS productivity after the pandemic: [**NHS funding, resources and teratment volumes**](https://ifs.org.uk/publications/nhs-funding-resources-and-treatment-volumes){target="_blank"}. 
 
-I summarised the findings in (my most successful ever) X/Twitter thread [here](https://x.com/BenZaranko/status/1602935890036269057?s=20){target="_blank"} and discussed the report on [BBC More or Less](t.co/Id2HNpMIQz){target="_blank"} with Tim Harford. (I've also been on More or Less to discuss [Baumol's cost disease](https://www.bbc.co.uk/programmes/p0jr54c5){target="_blank"} and how [NHS productivity](https://www.bbc.co.uk/sounds/play/m002phn1) is performing in more recent data).
+I summarised the findings in (my most successful ever) X/Twitter thread [here](https://x.com/BenZaranko/status/1602935890036269057?s=20){target="_blank"} and discussed the report on [BBC More or Less](t.co/Id2HNpMIQz){target="_blank"} with Tim Harford. (I've also been on More or Less to discuss [Baumol's cost disease](https://www.bbc.co.uk/programmes/p0jr54c5){target="_blank"} and how [NHS productivity](https://www.bbc.co.uk/sounds/play/m002phn1) is performing in more recent data). It was covered in various other media oulets but I don't have the links so you'll just have to take my word for it. 
 
 Other analyses of public sector productivity include:
 
@@ -46,7 +47,7 @@ I've published analysis of various aspects of the UK health and social care syst
 - [**Adult social care in England: what next?**](https://ifs.org.uk/publications/adult-social-care-england-what-next){target="_blank"} (with Antonella Bancalari), IFS Green Budget, October 2024 - a whistlestop tour of the numerous, overlapping challenges facing the adult social care sector in England and the choices the government faces in tackling them. 
 - [**Implications of the NHS workforce plan**](https://ifs.org.uk/publications/implications-nhs-workforce-plan){target="_blank"} (with Max Warner), IFS Green Budget, August 2023 - an analysis of what the NHS England workforce plan implies for spending on the NHS and the numbers working within it. 
 - [**An ever-growing NHS budget could swallow up all of this week’s tax rise, leaving little for social care**](https://ifs.org.uk/articles/ever-growing-nhs-budget-could-swallow-all-weeks-tax-rise-leaving-little-social-care){target="_blank"}, IFS, September 2021 - a quick response to Boris Johnson's announcement of a 'health and social care levy' to pay for extra NHS spending, noting the historic tendency for the NHS to require a top-up to its budget. 
-- George Stoye, Max Warner and I won the [2022 Harding Prize for Trustworthy Communication](https://ifs.org.uk/news/ifs-nhs-waiting-lists-calculator-wins-2022-harding-prize-trustworthy-communication){target="_blank"} for our [interactive NHS waiting lists calculator](https://ifs.org.uk/calculators/what-could-happen-nhs-waiting-lists-england){target="_blank"}. 
+- George Stoye, Max Warner and I won the [**2022 Harding Prize for Trustworthy Communication**](https://ifs.org.uk/news/ifs-nhs-waiting-lists-calculator-wins-2022-harding-prize-trustworthy-communication){target="_blank"} for our [interactive NHS waiting lists calculator](https://ifs.org.uk/calculators/what-could-happen-nhs-waiting-lists-england){target="_blank"}. 
 
 ## Academic research 
 

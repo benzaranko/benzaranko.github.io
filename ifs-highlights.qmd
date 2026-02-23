@@ -35,14 +35,14 @@ I've published on a wide range of other fiscal policy topics. Some selected high
 
 To my knowledge, this report (co-authored with Max Warner in December 2022) was the first to draw attention to the pronounced reduction in NHS productivity after the pandemic: [**NHS funding, resources and treatment volumes**](https://ifs.org.uk/publications/nhs-funding-resources-and-treatment-volumes){target="_blank"}. 
 
-I summarised the findings in this X/Twitter [thread](https://x.com/BenZaranko/status/1602935890036269057?s=20){target="_blank"} (my most successful ever) and discussed the report on [BBC More or Less](t.co/Id2HNpMIQz){target="_blank"} with Tim Harford. (I've also been on More or Less to discuss [Baumol's cost disease](https://www.bbc.co.uk/programmes/p0jr54c5){target="_blank"} and how [NHS productivity](https://www.bbc.co.uk/sounds/play/m002phn1) is performing in more recent data). It was covered in various other media oulets but I don't have the links so you'll just have to take my word for it. 
+I summarised the findings in this X/Twitter [thread](https://x.com/BenZaranko/status/1602935890036269057?s=20){target="_blank"} and discussed the report on [BBC More or Less](t.co/Id2HNpMIQz){target="_blank"} with Tim Harford. (I've also been on More or Less to discuss [Baumol's cost disease](https://www.bbc.co.uk/programmes/p0jr54c5){target="_blank"} and how [NHS productivity](https://www.bbc.co.uk/sounds/play/m002phn1) is performing in more recent data). It was covered in various other media oulets but I don't have the links so you'll just have to take my word for it. 
 
 Other analyses of public sector productivity include:
 
 - [**Productivity in the Crown Court**](https://ifs.org.uk/publications/productivity-crown-court){target="_blank"} (with Magdalena Dominguez and Joe Tomlinson), IFS, June 2025 - an exploration of whether falling productivity (i.e. a slowdown in the rate at which cases are disposed of) could explain the increase in the Crown Court backlog of England and Wales.
-- [**NHS hospital productivity: some positive news**](https://ifs.org.uk/articles/nhs-hospital-productivity-some-positive-news ){target="_blank"} (with Olly Harvey-Rich and Max Warner), IFS, November 2024 - highlighting emerging signs oif a productivity recovery in English NHS hospitals. 
+- [**NHS hospital productivity: some positive news**](https://ifs.org.uk/articles/nhs-hospital-productivity-some-positive-news ){target="_blank"} (with Olly Harvey-Rich and Max Warner), IFS, November 2024 - highlighting emerging signs of a productivity recovery in English NHS hospitals. 
 - [**The fiscal implications of public service productivity**](https://ifs.org.uk/publications/fiscal-implications-public-service-productivity){target="_blank"} (with Max Warner), IFS, May 2024 - some analysis drawning out what changes in public service productivity mean for the amount of spending on those services. 
-- [**Is there really an NHS productivity crisis?**](https://ifs.org.uk/articles/there-really-nhs-productivity-crisis){target="_blank"} (with Max Warner), IFS, November 2023 - The NHS England CEO suggested there were no problems with NHS productviity; we concluded otherwise.  
+- [**Is there really an NHS productivity crisis?**](https://ifs.org.uk/articles/there-really-nhs-productivity-crisis){target="_blank"} (with Max Warner), IFS, November 2023 - a short piece responding to some comments from the then-NHS England CEO. Figure 1 is a blinder.   
 
 ## Health and social care 
 

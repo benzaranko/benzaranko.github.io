@@ -1,11 +1,11 @@
-project:
+fproject:
   type: website
   output-dir: _site
 
 website:
   title: "Ben Zaranko"
   site-url: https://benzaranko.com
-  description: "Ben Zaranko is an economist specialising in UK public finances and fiscal policy. Associate Director at the Institute for Fiscal Studies and columnist for The Observer."
+  description: "Ben Zaranko is an economist and journalist. He is Economics Editor at The Observer, having previously spent nine years at the Institute for Fiscal Studies."
   navbar:
     right:
       - text: IFS highlights

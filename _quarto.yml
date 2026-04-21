@@ -1,4 +1,4 @@
-fproject:
+project:
   type:  website
   output-dir:  _site
 

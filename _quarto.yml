@@ -1,6 +1,6 @@
 fproject:
-  type: website
-  output-dir: _site
+  type:  website
+  output-dir:  _site
 
 website:
   title: "Ben Zaranko"

@@ -16,9 +16,9 @@ title-block-banner: false
 ::: {.home-bio}
 I'm an economist and journalist based in London. I'm currently Economics Editor at [The Observer](https://observer.co.uk/contributor/ben-zaranko){target="_blank"}, Britain's oldest Sunday newspaper. 
 
-Previously, I spent nine years at the [Institute for Fiscal Studies](https://ifs.org.uk/){target="_blank"} (IFS), where I led the Institute's work on fiscal policy and the public finances. Between 2021 and 2023 and again in 2025, I was co-editor of the [IFS Green Budget](https://ifs.org.uk/ifs-green-budget){target="_blank"}; I published academic research across a range of economic policy issues; and I gave evidence to three parliamentary select committees. 
+Previously, I spent nine years at the [Institute for Fiscal Studies](https://ifs.org.uk/){target="_blank"} (IFS), where I led the Institute's work on fiscal policy and the public finances. 
 
-I hold undergraduate and masters degrees in economics from the University of Oxford and University College London, respectively. You can find links to some of my favourite Observer columns and pieces of IFS research at the tabs above.
+I hold undergraduate and masters degrees in economics from the University of Oxford and University College London, respectively. You can find links to some of my favourite Observer columns and pieces of IFS research via the tabs at the top of the page. 
 :::
 
 ::: {.home-contact}

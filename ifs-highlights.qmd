@@ -56,6 +56,8 @@ I've published analysis of various aspects of the UK health and social care syst
 ## Academic research 
 
 ### Publications
+
+- [**Fiscal policy and the justice system**](https://www.tandfonline.com/doi/full/10.1080/09649069.2026.2660502){target="_blank"} (with Magdalena Dominguez and Joe Tomlinson), *Journal of Social Welfare and Family Law*, Vol. 21(1), April 2026.
 - [**Nurse shortages and patient outcomes**](https://www.sciencedirect.com/science/article/pii/S0167629625001171?via%3Dihub) (with Elaine Kelly and Carol Propper), *Journal of Health Economics*, Vol. 105, January 2026. [Non-technical summary](https://ifs.org.uk/articles/what-happens-when-nursing-teams-are-short-staffed){target="_blank"}.
 - [**Future challenges for health and social care provision in the UK**](https://academic.oup.com/oxrep/article/41/1/179/8157937){target="_blank"} (with Max Warner), invited contribution to *Oxford Review of Economic Policy*, Vol. 41(1), June 2025.
 - [**Nurse staffing and inpatient mortality in the English NHS**](https://qualitysafety.bmj.com/content/32/5/254){target="_blank"} (with Natalie Sanford, Elaine Kelly, Anne Marie Rafferty, James Bird, Luca Mercuri, Janice Sigsworth, Mary Wells and Carol Propper), *BMJ Quality & Safety*, September 2022.

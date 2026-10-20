@@ -10,7 +10,7 @@ title-block-banner: false
 :::
 
 ::: {.home-photo}
-![](assets/headshot.jpg){.home-headshot}
+![](assets/Obstack2.jpg){.home-headshot}
 :::
 
 ::: {.home-bio}
